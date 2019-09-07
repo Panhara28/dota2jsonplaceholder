@@ -4,6 +4,8 @@
     "name": "Christopher Walken",
     "movie": " The Deer Hunter",
     "description": "Beatae odit doloribus eligendi.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-christopher-walken.jpg",
+    "backgroundColor": "material-card Red",
     "created_at": "2019-09-07T03:08:04.949Z",
     "updated_at": "2019-09-07T03:08:04.949Z"
   },
@@ -12,6 +14,8 @@
     "name": "Sean Penn",
     "movie": "Mystic River",
     "description": "Praesentium modi corrupti sapiente.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-sean-penn.jpg",
+    "backgroundColor": "material-card Pink",
     "created_at": "2019-09-07T03:08:04.964Z",
     "updated_at": "2019-09-07T03:08:04.964Z"
   },
@@ -20,6 +24,8 @@
     "name": "Clint Eastwood",
     "movie": "Million Dollar Baby",
     "description": "Quam quas voluptas et.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-clint-eastwood.jpg",
+    "backgroundColor": "material-card Purple",
     "created_at": "2019-09-07T03:08:04.978Z",
     "updated_at": "2019-09-07T03:08:04.978Z"
   },
@@ -28,14 +34,18 @@
     "name": "Kevin Spacey",
     "player": " American Beauty",
     "description": "Ipsam quo excepturi officiis.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-kevin-spacey.jpg",
+    "backgroundColor": "material-card Orange",
     "created_at": "2019-09-07T03:08:04.996Z",
     "updated_at": "2019-09-07T03:08:04.996Z"
   },
   {
     "id": 5,
-    "name": "Evil Geniuses",
-    "player": "Arteezy, Sumail s4 Fly Cr1t",
+    "name": "Tom Hanks",
+    "movie": " Forrest Gump",
     "description": "Perferendis aut quis beatae.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-tom-hanks.jpg",
+    "backgroundColor": "material-card Light-Green",
     "created_at": "2019-09-07T03:08:05.011Z",
     "updated_at": "2019-09-07T03:08:05.011Z"
   },
@@ -44,6 +54,8 @@
     "name": "Morgan Freeman",
     "movie": "Glory",
     "description": "Ut magni atque placeat.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-morgan-freeman.jpg",
+    "backgroundColor": "material-card Blue-Grey",
     "created_at": "2019-09-07T03:08:05.042Z",
     "updated_at": "2019-09-07T03:08:05.042Z"
   },
@@ -52,6 +64,8 @@
     "name": "Marlon Brando",
     "movie": " The Godfather",
     "description": "Qui culpa fugit sunt.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-marlon-brando.jpg",
+    "backgroundColor": "material-card Amber"
     "created_at": "2019-09-07T03:08:05.059Z",
     "updated_at": "2019-09-07T03:08:05.059Z"
   },
@@ -60,6 +74,8 @@
     "name": "Philip Seymour Hoffman",
     "movie": " 25th Hour",
     "description": "Officia in eaque sunt.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-philip-seymour-hoffman.jpg",
+    "backgroundColor": "material-card Lime"
     "created_at": "2019-09-07T03:08:05.074Z",
     "updated_at": "2019-09-07T03:08:05.074Z"
   },
@@ -68,6 +84,8 @@
     "name": "Jeff Bridges",
     "movie": "The Big Lebowski",
     "description": "Nobis illo sit aut.",
+    "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-jeff-bridges.jpg",
+    "backgroundColor": "material-card Teal",
     "created_at": "2019-09-07T03:08:05.092Z",
     "updated_at": "2019-09-07T03:08:05.092Z"
   }
