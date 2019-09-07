@@ -65,7 +65,7 @@
     "movie": " The Godfather",
     "description": "Qui culpa fugit sunt.",
     "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-marlon-brando.jpg",
-    "backgroundColor": "material-card Amber"
+    "backgroundColor": "material-card Amber",
     "created_at": "2019-09-07T03:08:05.059Z",
     "updated_at": "2019-09-07T03:08:05.059Z"
   },
@@ -75,7 +75,7 @@
     "movie": " 25th Hour",
     "description": "Officia in eaque sunt.",
     "image_url": "http://u.lorenzoferrara.net/marlenesco/material-card/thumb-philip-seymour-hoffman.jpg",
-    "backgroundColor": "material-card Lime"
+    "backgroundColor": "material-card Lime",
     "created_at": "2019-09-07T03:08:05.074Z",
     "updated_at": "2019-09-07T03:08:05.074Z"
   },
