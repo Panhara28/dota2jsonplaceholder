@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Liquid",
-    "player": "Kuroky, Miracle, MindControl, W33, GH",
+    "name": "Christopher Walken",
+    "movie": " The Deer Hunter",
     "description": "Beatae odit doloribus eligendi.",
     "created_at": "2019-09-07T03:08:04.949Z",
     "updated_at": "2019-09-07T03:08:04.949Z"
   },
   {
     "id": 2,
-    "name": "Secret",
-    "player": "Puppey, Midone, Nisha, Yepzor, Zia",
+    "name": "Sean Penn",
+    "movie": "Mystic River",
     "description": "Praesentium modi corrupti sapiente.",
     "created_at": "2019-09-07T03:08:04.964Z",
     "updated_at": "2019-09-07T03:08:04.964Z"
   },
   {
     "id": 3,
-    "name": "Natus Vincere",
-    "player": "Era ana Mushi Hao",
+    "name": "Clint Eastwood",
+    "movie": "Million Dollar Baby",
     "description": "Quam quas voluptas et.",
     "created_at": "2019-09-07T03:08:04.978Z",
     "updated_at": "2019-09-07T03:08:04.978Z"
   },
   {
     "id": 4,
-    "name": "OG",
-    "player": "N0tail, JerAx, Ana, Topson, Ceb",
+    "name": "Kevin Spacey",
+    "player": " American Beauty",
     "description": "Ipsam quo excepturi officiis.",
     "created_at": "2019-09-07T03:08:04.996Z",
     "updated_at": "2019-09-07T03:08:04.996Z"
@@ -41,32 +41,32 @@
   },
   {
     "id": 6,
-    "name": "Natus Vincere",
-    "player": "Crystallize, MagicaL, 9pasha, SoNNeikO, Zayac",
+    "name": "Morgan Freeman",
+    "movie": "Glory",
     "description": "Ut magni atque placeat.",
     "created_at": "2019-09-07T03:08:05.042Z",
     "updated_at": "2019-09-07T03:08:05.042Z"
   },
   {
     "id": 7,
-    "name": "Kingdra",
-    "player": "Ohaiyo ana Mushi Hao Era",
+    "name": "Marlon Brando",
+    "movie": " The Godfather",
     "description": "Qui culpa fugit sunt.",
     "created_at": "2019-09-07T03:08:05.059Z",
     "updated_at": "2019-09-07T03:08:05.059Z"
   },
   {
     "id": 8,
-    "name": "WarriorsGaming.Unity",
-    "player": "Ohaiyo ana Mushi Hao Era",
+    "name": "Philip Seymour Hoffman",
+    "movie": " 25th Hour",
     "description": "Officia in eaque sunt.",
     "created_at": "2019-09-07T03:08:05.074Z",
     "updated_at": "2019-09-07T03:08:05.074Z"
   },
   {
     "id": 9,
-    "name": "TEAM MAX",
-    "player": "Ohaiyo ana Mushi Hao Era",
+    "name": "Jeff Bridges",
+    "movie": "The Big Lebowski",
     "description": "Nobis illo sit aut.",
     "created_at": "2019-09-07T03:08:05.092Z",
     "updated_at": "2019-09-07T03:08:05.092Z"
