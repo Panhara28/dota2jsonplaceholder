@@ -1,6 +1,6 @@
 [
   {
-    id: 1,
+    id: "1",
     name: "Liquid",
     player: "Kuroky, Miracle, MindControl, W33, GH",
     description: "Beatae odit doloribus eligendi.",
@@ -8,7 +8,7 @@
     updated_at: "2019-09-07T03:08:04.949Z"
   },
   {
-    id: 2,
+    id: "2",
     name: "Secret",
     player: "Puppey, Midone, Nisha, Yepzor, Zia",
     description: "Praesentium modi corrupti sapiente.",
@@ -16,7 +16,7 @@
     updated_at: "2019-09-07T03:08:04.964Z"
   },
   {
-    id: 3,
+    id: "3",
     name: "Natus Vincere",
     player: "Era ana Mushi Hao",
     description: "Quam quas voluptas et.",
@@ -24,7 +24,7 @@
     updated_at: "2019-09-07T03:08:04.978Z"
   },
   {
-    id: 4,
+    id: "4",
     name: "OG",
     player: "N0tail, JerAx, Ana, Topson, Ceb",
     description: "Ipsam quo excepturi officiis.",
@@ -32,7 +32,7 @@
     updated_at: "2019-09-07T03:08:04.996Z"
   },
   {
-    id: 5,
+    id: "5",
     name: "Evil Geniuses",
     player: "Arteezy, Sumail s4 Fly Cr1t",
     description: "Perferendis aut quis beatae.",
@@ -40,7 +40,7 @@
     updated_at: "2019-09-07T03:08:05.011Z"
   },
   {
-    id: 6,
+    id: "6",
     name: "Natus Vincere",
     player: "Crystallize, MagicaL, 9pasha, SoNNeikO, Zayac",
     description: "Ut magni atque placeat.",
@@ -48,7 +48,7 @@
     updated_at: "2019-09-07T03:08:05.042Z"
   },
   {
-    id: 7,
+    id: "7",
     name: "Kingdra",
     player: "Ohaiyo ana Mushi Hao Era",
     description: "Qui culpa fugit sunt.",
@@ -56,7 +56,7 @@
     updated_at: "2019-09-07T03:08:05.059Z"
   },
   {
-    id: 8,
+    id: "8",
     name: "WarriorsGaming.Unity",
     player: "Ohaiyo ana Mushi Hao Era",
     description: "Officia in eaque sunt.",
@@ -64,7 +64,7 @@
     updated_at: "2019-09-07T03:08:05.074Z"
   },
   {
-    id: 9,
+    id: "9",
     name: "TEAM MAX",
     player: "Ohaiyo ana Mushi Hao Era",
     description: "Nobis illo sit aut.",
